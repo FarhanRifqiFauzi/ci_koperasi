@@ -1,2 +1,2 @@
-# ci_koperasi
+# aplikasi koperasi
 Repository untuk Igniter koperasi
